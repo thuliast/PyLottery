@@ -1,13 +1,13 @@
 """***********************************************
 * Programma di estrazione numeri per la lotteria *
-* SiVinceStoKazzo.                               *
+* SiVinceIlGnente.                               *
 * Questo programma simula una estrazione di 6    *
 * numeri casuali che serviranno poi a simulare   *
 * la gestione di una lotteria, con estrazione    *
 * dei biglietti vincenti                         *
-* Autore: Silvio ABBerlusconi                    *
+* Autore: Francesco Tattoli aka Thuliast         *
 * Data di creazione: 25-01-2023                  *
-* Versione: 1.1                                  *
+* Versione: 1.11                                 *
 ***********************************************"""
 
 import random

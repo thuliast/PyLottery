@@ -1,11 +1,11 @@
 """*****************************************************
 * Programma di lettura biglietti per la lotteria di    *
-* SiVinceStoKazzo.                                     *
+* SiVinceIlGnente.                                     *
 * Questo programma serve a controllare un file         *
 * contenente un numero finito di biglietti per         *
 * la lotteria (giocate), mettendolo a confronto con    *
 * una estrazione, e scrive in un altro file le vincite.*
-* Autore: Silvio ABBerlusconi                          *
+* Autore: Francesco Tattoli aka Thuliast               *
 * Data di creazione: 25-01-2023                        *
 * Versione: 1.5                                        *
 *****************************************************"""
